@@ -36,7 +36,7 @@ var slides = [
     title: "Understanding the Pieces",
     p: [
       "HTML and CSS are not programming languages - they're coding formats.",
-      "<span class='blue'>JavaScript is a programming language</span>, and just as powerful as Ruby or Java or C++ or anything other back-end language."
+      "<span class='blue'>JavaScript is a programming language</span>, and just as powerful as Ruby or Java or C++ or any other back-end language."
     ]
   },
   {
@@ -245,8 +245,8 @@ var slides = [
     content: "Still want to learn to code?",
     ul: [
       "Be timorous",
-      "Be joyous",
-      "Be expedious"
+      "Be joyful",
+      "Be explorative"
     ]
   },
   {
