@@ -2,10 +2,6 @@ var slides = [
 
   {
     feature: true,
-    intentionally_left_blank: "oh yeah"
-  },
-  {
-    feature: true,
     content: "<h1>Crash Course: JavaScript</h1>"
   },
   {
@@ -252,5 +248,9 @@ var slides = [
   {
     feature: true,
     content: "<h2><em>Thanks!</em></h2>@kylehill on Twitter/GitHub/Gmail"
+  },
+  {
+    feature: true,
+    intentionally_left_blank: "oh yeah"
   }
 ]
